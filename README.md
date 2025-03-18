@@ -3,17 +3,6 @@
 ## 📌 Project Overview
 This is a **real-time system health monitoring tool** built with **Streamlit**, which tracks and visualizes **API response times, system processes, and database restart events**. The system auto-refreshes at intervals and correlates database downtime with response time spikes.
 
-## 📂 Project Structure
-```plaintext
-📁 System_Health_Monitoring
-│── 📁 src          # Contains all source code files
-│   ├── app.py      # Main Streamlit application
-│   ├── killing.py  # Script that simulates database restarts
-│   ├── fetch.py    # API endpoint to fetch response time data
-│── README.md       # Documentation about the project
-│── requirements.txt # Dependencies required to run the project
-```
-
 ## 🚀 Features
 ✅ **Live monitoring of system metrics** – Tracks CPU, memory, and running processes
 ✅ **Response time tracking** – Monitors API response time and detects slowdowns
