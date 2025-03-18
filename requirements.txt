@@ -1,0 +1,11 @@
+streamlit
+pandas
+plotly
+sqlalchemy
+pymysql
+fastapi
+uvicorn
+uuid
+requests_unixsocket
+requests
+docker
